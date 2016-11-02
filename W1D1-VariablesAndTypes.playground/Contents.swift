@@ -9,7 +9,7 @@
 //: Variables allow us to store data that we can use at a later time
 //: In swift, you create variables like this:
 
-var greeting = "Hello, world!"
+var greeting = "Hello, Lighthouse Labs!"
   
 //: There are three important parts to creating a variable: 1) writing `var` to show you are creating a new variable, 2) naming the variable,
 //: and 3) the data stored inside the variable
